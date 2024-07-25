@@ -1,0 +1,23 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: "Damilola Olaiya"
+
+description:
+  <p align="center">
+    <a href="https://www.linkedin.com/in/damilola-olaiya">LinkedIn</a> |
+    <a href="https://github.com/Daolaiya/data-science-portfolio">GitHub</a>
+  </p>
+  <p align="justify">
+    <ul>
+      <li>Engineer with experience in manufacturing, plastic injection moulding, data analysis, statistics, inventory management, product development, project management, risk analysis and quality control.</li>
+      <br></br>
+      <li>Data Scientist with a background in Machine Learning, Data Visualization, Cloud Computing, Big Data and Neural Networks.</li>
+      <br></br>
+      <li>Experienced in delivering data-driven insights to technical and non-technical audiences alike.</li>
+      <br></br>
+    </ul>
+  </p>
+
+logo: "/images/profile.png"
+favicon: "/images/favicon.jpg"
